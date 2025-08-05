@@ -1,0 +1,8 @@
+name: shyamala devi
+date of birth: 26/07/2005
+suc code: 236153
+course: BCA
+year: 3rd year
+E-mail: shyamaladeviponnaganti@gmail.com
+password: Shyamu@1626
+college name: Aditya Degree College
